@@ -33,7 +33,7 @@ namespace SpeedLimitChecker
                 thread4.Join();
 
                 Console.WriteLine("There were "+dp.getCounter()+" cases of driving over the limit");
-                Console.WriteLine("Press any button to close");
+                Console.WriteLine("Press Enter to close");
                 Console.ReadLine();
             }
             else 
