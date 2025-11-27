@@ -1,0 +1,14 @@
+D:\Skola4\PV\SpeedLimitChecker\bin\Debug\net8.0\SpeedLimitChecker.exe
+D:\Skola4\PV\SpeedLimitChecker\bin\Debug\net8.0\SpeedLimitChecker.deps.json
+D:\Skola4\PV\SpeedLimitChecker\bin\Debug\net8.0\SpeedLimitChecker.runtimeconfig.json
+D:\Skola4\PV\SpeedLimitChecker\bin\Debug\net8.0\SpeedLimitChecker.dll
+D:\Skola4\PV\SpeedLimitChecker\bin\Debug\net8.0\SpeedLimitChecker.pdb
+D:\Skola4\PV\SpeedLimitChecker\obj\Debug\net8.0\SpeedLimitChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skola4\PV\SpeedLimitChecker\obj\Debug\net8.0\SpeedLimitChecker.AssemblyInfoInputs.cache
+D:\Skola4\PV\SpeedLimitChecker\obj\Debug\net8.0\SpeedLimitChecker.AssemblyInfo.cs
+D:\Skola4\PV\SpeedLimitChecker\obj\Debug\net8.0\SpeedLimitChecker.csproj.CoreCompileInputs.cache
+D:\Skola4\PV\SpeedLimitChecker\obj\Debug\net8.0\SpeedLimitChecker.dll
+D:\Skola4\PV\SpeedLimitChecker\obj\Debug\net8.0\refint\SpeedLimitChecker.dll
+D:\Skola4\PV\SpeedLimitChecker\obj\Debug\net8.0\SpeedLimitChecker.pdb
+D:\Skola4\PV\SpeedLimitChecker\obj\Debug\net8.0\SpeedLimitChecker.genruntimeconfig.cache
+D:\Skola4\PV\SpeedLimitChecker\obj\Debug\net8.0\ref\SpeedLimitChecker.dll
