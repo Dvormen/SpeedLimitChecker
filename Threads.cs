@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace SpeedLimitChecker
 {
+    /// <summary>
+    /// Class that creates threads and handles missinputs
+    /// </summary>
     internal class Threads
     {
        public Threads() 

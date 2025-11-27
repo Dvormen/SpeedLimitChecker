@@ -7,12 +7,20 @@ using System.Threading.Tasks;
 
 namespace SpeedLimitChecker
 {
+    /// <summary>
+    /// Class that handles csv data and processes it
+    /// </summary>
     internal class DataProcesser
     {
         string file_path = "data.csv";
         int counter = 0;
         private object fileLock = new object();
 
+        /// <summary>
+        /// Method that searches and compares csv data and writes into a file
+        /// </summary>
+        /// <param name="start"> Start of the lines of csv </param>
+        /// <param name="end"> End of the lines of csv </param>
         public void speedLimiter(int start, int end) 
         {
             if (File.Exists(file_path)) { 
@@ -48,7 +56,10 @@ namespace SpeedLimitChecker
             }
         }
 
-
+        /// <summary>
+        /// Gets count of rule breaks
+        /// </summary>
+        /// <returns>number of speed limits passed</returns>
         public int getCounter() 
         {
             return counter;
