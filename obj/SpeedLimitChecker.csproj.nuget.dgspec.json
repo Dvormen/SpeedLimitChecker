@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TIGO\\Desktop\\Flashka Backup\\pvprojekt\\SpeedLimitChecker.csproj": {}
+    "C:\\Users\\TIGO\\Desktop\\Flashka Backup\\pv\\SpeedLimitChecker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TIGO\\Desktop\\Flashka Backup\\pvprojekt\\SpeedLimitChecker.csproj": {
+    "C:\\Users\\TIGO\\Desktop\\Flashka Backup\\pv\\SpeedLimitChecker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TIGO\\Desktop\\Flashka Backup\\pvprojekt\\SpeedLimitChecker.csproj",
+        "projectUniqueName": "C:\\Users\\TIGO\\Desktop\\Flashka Backup\\pv\\SpeedLimitChecker.csproj",
         "projectName": "SpeedLimitChecker",
-        "projectPath": "C:\\Users\\TIGO\\Desktop\\Flashka Backup\\pvprojekt\\SpeedLimitChecker.csproj",
+        "projectPath": "C:\\Users\\TIGO\\Desktop\\Flashka Backup\\pv\\SpeedLimitChecker.csproj",
         "packagesPath": "C:\\Users\\TIGO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TIGO\\Desktop\\Flashka Backup\\pvprojekt\\obj\\",
+        "outputPath": "C:\\Users\\TIGO\\Desktop\\Flashka Backup\\pv\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
