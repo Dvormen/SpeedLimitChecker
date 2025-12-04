@@ -15,7 +15,7 @@ namespace SpeedLimitChecker
         /// <param name="file"> File name </param>
         public void logWrite(int info, string file) 
         {
-            File.AppendAllText("Log.txt","[" + DateTime.Now + "] Written into file " + file + " " + info + " lines");
+            File.AppendAllText("Log.txt","[" + DateTime.Now + "] Written into file " + file + " " + info + " lines" + Environment.NewLine);
         }
 
     }
