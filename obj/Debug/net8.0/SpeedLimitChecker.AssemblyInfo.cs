@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpeedLimitChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c219d8d07859dff4ac10bda38594c102b42cec6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpeedLimitChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpeedLimitChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
