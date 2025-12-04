@@ -20,6 +20,7 @@ namespace SpeedLimitChecker
             {
                 int max = int.Parse(input);
                 DataProcesser dp = new DataProcesser();
+                Logger log = new Logger();
                 Thread thread1 = new Thread(() => dp.speedLimiter(0, max/4));
                 Thread thread2 = new Thread(() => dp.speedLimiter(max/4, max/4*2));
                 Thread thread3 = new Thread(() => dp.speedLimiter(max/4*2, max/4*3));
@@ -35,6 +36,7 @@ namespace SpeedLimitChecker
                 thread3.Join();
                 thread4.Join();
 
+                log.logWrite(dp.getCounter(), "licence_plates.txt");
                 Console.WriteLine("There were "+dp.getCounter()+" cases of driving over the limit");
                 Console.WriteLine("Press Enter to close");
                 Console.ReadLine();

@@ -12,10 +12,12 @@ namespace SpeedLimitChecker
     /// </summary>
     internal class DataProcesser
     {
+
+
         string file_path = "data.csv";
+        string file_end = "licence_plates.txt";
         int counter = 0;
         private object fileLock = new object();
-
         /// <summary>
         /// Method that searches and compares csv data and writes into a file
         /// </summary>
@@ -48,7 +50,7 @@ namespace SpeedLimitChecker
 
                         lock (fileLock)
                         {
-                            File.AppendAllText("licence_plates.txt", thirdColumn + Environment.NewLine);
+                            File.AppendAllText(file_end, thirdColumn + Environment.NewLine);
                         }
                     }
                 }
